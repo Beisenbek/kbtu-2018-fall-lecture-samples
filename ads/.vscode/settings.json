@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "system_error": "cpp",
+        "ostream": "cpp"
+    }
+}
