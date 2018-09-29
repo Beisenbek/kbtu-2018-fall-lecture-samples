@@ -53,16 +53,17 @@ node * del(node * root, int x){
     if(root == NULL) return root;
     if(root->val == x){
         if(root->right == NULL && root->left == NULL){
+            delete root;
             return NULL;
         }
         if(root->right != NULL && root->left == NULL){
             node * temp = root->right;
-            //delete root;
+            delete root;
             return temp;
         }
         if(root->right == NULL && root->left != NULL){
             node * temp = root->left;
-            //delete root;
+            delete root;
             return temp;
         }
         root->val = rightmost(root->left);
