@@ -22,7 +22,7 @@ int main(){
     for(int i = 0; i < n; i++){
         for(int j = 0; j < m; ++j){
             minEl = min(minEl, a[i][j]);
-            maxEl = max(maxEl, a[i][j]);
+            maxEl = max(maxEl, a[i][j]); maxEl = max(maxEl, a[i][j]);
         }
     }
 

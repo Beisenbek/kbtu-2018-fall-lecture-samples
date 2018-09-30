@@ -26,6 +26,7 @@ int main(){
         if(c == m - 1){
             cout << endl;
         }
+        
     }
 
     return 0;
