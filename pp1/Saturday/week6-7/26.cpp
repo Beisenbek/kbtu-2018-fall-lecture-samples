@@ -16,5 +16,5 @@ int main(){
 
     print(x, n);
 
-    return 0;
+    return 0;2 20
 }

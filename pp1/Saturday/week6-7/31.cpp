@@ -9,8 +9,8 @@ void f(string s){
 }
 
 void f2(string s){
-    for(int i = 1; i <= s.size(); ++i){
-        cout << s.substr(s.size()- i, i) << endl;
+    for(int i = 0; i < s.size(); ++i){
+        cout << s.substr(s.size() - 1 - i, i + 1) << endl;
     }
 }
 
