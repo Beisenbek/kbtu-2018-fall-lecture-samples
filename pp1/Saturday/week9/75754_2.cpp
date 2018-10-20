@@ -23,7 +23,7 @@ bool isValid(string s){
             p1 = true;
             cnt = 0;
         }else if(s[i] <= 'z' && s[i] >= 'a'){
-            cnt++;
+            cnt++; 
         }else{
             ok = false;
             break;
