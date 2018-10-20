@@ -68,7 +68,6 @@ string compression(string s){
 }
 
 int main(){
-
     string s;
     cin >> s;
     cout << compression4(s) << endl;
