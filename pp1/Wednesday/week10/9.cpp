@@ -23,7 +23,7 @@ int main(){
         cout << "found!";
     }
 
-    
+
 
     return 0;
 }
