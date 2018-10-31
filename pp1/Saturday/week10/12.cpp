@@ -8,6 +8,8 @@ int main(){
     vector<char> s;
     char x;
 
+    //beysenbek@gmail.com
+
     while(cin >> x){
         s.push_back(x);
     }
