@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "utility": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "algorithm": "cpp"
     }
 }
