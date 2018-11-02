@@ -1,0 +1,6 @@
+5
+keyboard 10 
+printer 20 
+keyboard -7 
+keyboard 2 
+printer -8 
