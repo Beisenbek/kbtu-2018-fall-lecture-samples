@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "hashtable": "cpp",
+        "deque": "cpp"
+    }
+}
