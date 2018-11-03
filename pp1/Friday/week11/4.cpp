@@ -7,9 +7,10 @@ int main(){
 
     map<string, int> m;
 
-    int n;
-    cin >> n;
     string str;
+    int n;
+
+    cin >> n;
     for(int i = 0; i < n; ++i){
         cin >> str;
         m[str] = str.size();
