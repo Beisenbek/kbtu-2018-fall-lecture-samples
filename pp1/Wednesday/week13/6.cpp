@@ -15,7 +15,7 @@ int randomNumber(){
 
 int main(){
 
-    //srand(time(0));
+    srand(time(0));
 
     int n;
     cin >> n;
