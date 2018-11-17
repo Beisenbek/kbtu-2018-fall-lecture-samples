@@ -5,7 +5,7 @@
 using namespace std;
 
 int f(){
-    return rand() % 1000;
+    return rand() % 10;
 }
 
 int main(){
