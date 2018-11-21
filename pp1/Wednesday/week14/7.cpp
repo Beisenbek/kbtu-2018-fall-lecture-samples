@@ -6,7 +6,7 @@
 using namespace std;
 
 bool f(point p1, point p2){
-    if(p1.sum() >= p2.sum()) return true;
+    if(p1.sum() <= p2.sum()) return true;
     return false;
 }
 
